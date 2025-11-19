@@ -487,6 +487,7 @@ img {
 .subscribe-form {
   display: flex;
   gap: 24px;
+  margin-left: 80px;
 }
 
 .subscribe-title {
@@ -496,6 +497,7 @@ img {
   letter-spacing: 0.02em;
   color: #fff;
   margin-bottom: 16px;
+  margin-left: 80px;
 }
 
 .subscribe-form-email {
@@ -640,12 +642,16 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  padding: 72px 24px 0;
+  padding: 0;
   margin-bottom: 16px;
 }
 
 .form-field-wrapper {
   margin-bottom: 8px;
+}
+
+.form-field-comment {
+  margin-bottom: 16px;
 }
 
 .label-field {
@@ -720,7 +726,7 @@ img {
   border-color: #4d5ae5;
 }
 
-.form-field-wrap {
+.form-field-polisy {
   margin-bottom: 24px;
 }
 
